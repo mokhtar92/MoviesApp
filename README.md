@@ -1,4 +1,5 @@
 # MoviesApp
+### Simple app to display list of movies upon network request
 
 ## External libraries
 
