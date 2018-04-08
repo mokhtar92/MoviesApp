@@ -1,7 +1,8 @@
 # MoviesApp
 ### Simple app to display a list of movies upon network request
 
-### External libraries
+
+# External libraries:
 
 ### Type-safe HTTP client for Android and Java
 https://github.com/square/retrofit
