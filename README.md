@@ -1,8 +1,12 @@
 # MoviesApp
 
-##External libraries
-https://github.com/square/retrofit
+## External libraries
 
-https://github.com/square/picasso
+## Type-safe HTTP client for Android and Java
+### https://github.com/square/retrofit
 
-https://github.com/JakeWharton/butterknife
+## A powerful image downloading and caching library for Android
+### https://github.com/square/picasso
+
+## Bind Android views and callbacks to fields and methods.
+### https://github.com/JakeWharton/butterknife
